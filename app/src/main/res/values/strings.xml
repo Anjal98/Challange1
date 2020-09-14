@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChallAc</string>
+    <string name="button1">Text One</string>
+    <string name="button2">Text Two</string>
+    <string name="button3">Text Three</string>
+    <string name="Text1">Passage One: People have been coming to the wise man, complaining about the same problems every time.
+        One day he told them a joke and everyone roared in laughter.
+        After a couple of minutes, he told them the same joke and only a few of them smiled.
+        When he told the same joke for the third time no one laughed anymore.
+        The wise man smiled and said:</string>
+    <string name="Text2">Passage Two: Yes Sir, 2nd wiseman People have been coming to the wise man, complaining about the same problems every time.
+        One day he told them a joke and everyone roared in laughter.
+        After a couple of minutes, he told them the same joke and only a few of them smiled.
+        When he told the same joke for the third time no one laughed anymore.
+        The wise man smiled and said</string>
+    <string name="Text3">Passage Three: Yes Sir, 3rd wiseman People have been coming to the wise man, complaining about the same problems every time.
+        One day he told them a joke and everyone roared in laughter.
+        After a couple of minutes, he told them the same joke and only a few of them smiled.
+        When he told the same joke for the third time no one laughed anymore.
+        The wise man smiled and said</string>
+</resources>
